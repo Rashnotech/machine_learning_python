@@ -1,7 +1,7 @@
 # machine_learning_python
 Introduction to machine learning with python
 <header>
-_It all started in 1950 when an English scientist Alan turing published a seminal paper titled "Computing Machinery and Intelligence". In this groundbreaking work, Turing introduced the concept of what we now know as the Turing test. Rather than asking whether machines can think (a question he found ambiguous), Turing proposed an alternative: Can a machine convincingly imitate human behaviour in a game? This game, called the "Imitation Game", involves three participants: a computer, a human and a judge._
+It all started in 1950 when an English scientist Alan turing published a seminal paper titled "Computing Machinery and Intelligence". In this groundbreaking work, Turing introduced the concept of what we now know as the Turing test. Rather than asking whether machines can think (a question he found ambiguous), Turing proposed an alternative: Can a machine convincingly imitate human behaviour in a game? This game, called the "Imitation Game", involves three participants: a computer, a human and a judge.
 </header>
 
 ## Artificial Intelligence
